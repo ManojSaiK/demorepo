@@ -1,0 +1,3 @@
+this is file2...
+and it is a text document
+created from file explorer
